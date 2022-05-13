@@ -1,0 +1,12 @@
+*/.hugo_build.lock
+
+# Generated resources files
+/*/resources/_gen
+/Demos/*/resources
+
+# Build output
+/*/public/
+
+.vscode
+staging/
+**/.DS_Store
